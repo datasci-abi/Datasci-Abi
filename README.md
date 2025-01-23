@@ -1,6 +1,6 @@
 ### Hi there, I'm Abisek Raut! 👋
 
-I am a data analyst currently transitioning from a background in various technology sectors. My focus now lies in harnessing Python, MySQL, Machine Learning, and Natural Language Processing to extract meaningful insights from data.
+I am beginning my career as a data analyst, eager to leverage Python, MySQL, Machine Learning, and Natural Language Processing to explore data-driven insights. My journey into data analysis is fueled by a strong interest in applying analytical techniques to solve real-world problems.
 
 🔭 I’m currently leading the **Bandersnatch project**, a groundbreaking initiative that utilizes advanced technology to deliver dynamic visualizations and interactive machine learning models through a web application. This project highlights my dedication to using sophisticated data tools to enhance understanding and facilitate informed decision-making.
 
