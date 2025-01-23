@@ -1,17 +1,17 @@
 ### Hi there, I'm Abisek Raut! 👋
 
-I am a data scientist and software developer with a passion for transforming complex data into actionable insights and innovative software solutions. With expertise in Python, MySQL, Machine Learning, and Natural Language Processing, I thrive at the intersection of data analysis and software development.
+I am a data analyst currently transitioning from a background in various technology sectors. My focus now lies in harnessing Python, MySQL, Machine Learning, and Natural Language Processing to extract meaningful insights from data.
 
-🔭 I’m currently leading the development of the **Bandersnatch project**, an ambitious initiative designed to integrate dynamic visualizations and interactive machine learning models within a robust web application. This project showcases my commitment to pushing the boundaries of technology to enhance user engagement and understanding through data.
+🔭 I’m currently leading the **Bandersnatch project**, a groundbreaking initiative that utilizes advanced technology to deliver dynamic visualizations and interactive machine learning models through a web application. This project highlights my dedication to using sophisticated data tools to enhance understanding and facilitate informed decision-making.
 
-🌱 While I have mastered several technologies, I am always on the lookout for new tools and methodologies to further enhance my skill set and contribute to my projects.
+🌱 I am continually expanding my expertise in data analysis by exploring new tools and techniques that push the boundaries of what we can achieve with data.
 
-👯 I’m open to collaborations, looking to work with other creative and driven individuals on innovative projects that challenge the status quo.
+👯 I’m eager to collaborate with other enthusiasts and professionals in the field of data science to tackle challenging problems and develop innovative solutions.
 
-📫 How to reach me: [abisek_raut@hotmail.com](mailto:abisek_raut@hotmail.com)
+📫 Feel free to reach out to me at: [abisek_raut@hotmail.com](mailto:abisek_raut@hotmail.com)
 
-💼 Any freelance work? Do reach, email above or [issue on one of my repos](https://github.com/datasci-abi).
+💼 Interested in freelance opportunities? Contact me via email or [open an issue on one of my repositories](https://github.com/datasci-abi).
 
-👨‍💻 All of my projects are available at [https://github.com/datasci-abi](https://github.com/datasci-abi).
+👨‍💻 You can find all of my projects here: [https://github.com/datasci-abi](https://github.com/datasci-abi).
 
-⚡ Fun fact: Aside from my tech career, I also cherished moments being in a local rock band with my friends. It's all about hitting the right notes, whether in code or in music!
+⚡ Fun fact: I once enjoyed being part of a local rock band. Just like in music, finding harmony in data reveals the best stories!
