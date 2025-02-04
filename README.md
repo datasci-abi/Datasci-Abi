@@ -4,6 +4,21 @@ I am beginning my career as a data analyst, eager to leverage Python, MySQL, Mac
 
 🔭 I’m currently leading the **Bandersnatch project**, a groundbreaking initiative that utilizes advanced technology to deliver dynamic visualizations and interactive machine learning models through a web application. This project highlights my dedication to using sophisticated data tools to enhance understanding and facilitate informed decision-making.
 
+Current Tech Stack:
+🐍 Programming Languages: Python, SQL, R, Excel
+🗄️ Databases: MySQL, MongoDB
+📊 Data Visualization: Matplotlib, Seaborn, Plotly, Altair
+📦 Data Manipulation: Pandas, NumPy
+📈 Tools: Jupyter, Tableau, Power BI, Streamlit
+🌐 Web Frameworks: Flask
+🔮 Time-Series Forecasting: Prophet, ARIMA, Pmdarima
+🌐 Cloud Platforms: AWS, Google Cloud, Heroku
+🔧 Version Control: Git, GitHub
+📊 Data Analytics: Data Wrangling, Data Visualization, Statistical Modeling
+🤖 Machine Learning: Scikit-learn, XGBoost, Large Language Models (LLMs), Natural Language 
+                                    Processing (NLP), Hypothesis Testing, Feature Engineering, Predictive Analysis, 
+                                    Regression and Classification Analysis
+
 🌱 I am continually expanding my expertise in data analysis by exploring new tools and techniques that push the boundaries of what we can achieve with data.
 
 👯 I’m eager to collaborate with other enthusiasts and professionals in the field of data science to tackle challenging problems and develop innovative solutions.
