@@ -2,7 +2,7 @@
 
 I am beginning my career as a data analyst, eager to leverage Python, MySQL, Machine Learning, and Natural Language Processing to explore data-driven insights. My journey into data analysis is fueled by a strong interest in applying analytical techniques to solve real-world problems.
 
-🔭 I’m currently leading the **Bandersnatch project**, a groundbreaking initiative that utilizes advanced technology to deliver dynamic visualizations and interactive machine learning models through a web application. This project highlights my dedication to using sophisticated data tools to enhance understanding and facilitate informed decision-making.
+🔭 I recently completed a Bitcoin Forecasting App, a cutting-edge project that leverages advanced machine learning models and real-time data to predict Bitcoin price trends. This web application integrates ARIMA and XGBoost models, along with dynamic visualizations and live Bitcoin price tracking, showcasing my expertise in data science and financial analytics. This project reflects my passion for utilizing sophisticated data tools to enhance market insights and support informed decision-making. 🚀📊 #MachineLearning #Bitcoin #AI #Crypto #DataScience
 
 Current Tech Stack:
 🐍 Programming Languages: Python, SQL, R, Excel
