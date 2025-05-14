@@ -1,12 +1,14 @@
 ### Hi there, I'm Abisek Raut! 👋
 
-I am beginning my career as a data analyst, eager to leverage Python, MySQL, Machine Learning, and Natural Language Processing to explore data-driven insights. My journey into data analysis is fueled by a strong interest in applying analytical techniques to solve real-world problems.
+I am beginning my career as a data analyst/scientist, eager to leverage Python, MySQL, Machine Learning, and Natural Language Processing to explore data-driven insights. My journey into data analysis is fueled by a strong interest in applying analytical techniques to solve real-world problems.
 
-🔍 I recently completed a U.S. Building Permit Analysis project — a data-driven exploration of residential construction activity across all 50 states using March 2025 data from the U.S. Census Bureau. This project demonstrates my ability to clean and structure messy government data, generate actionable insights, and create compelling visualizations.
+🔍 I recently completed a U.S. Building Permit Analysis project — a data-driven exploration of residential construction activity across all 50 states using March 2025 data from the U.S. Census Bureau. This project showcases my ability to clean and structure messy government data, generate actionable insights, and create compelling visualizations.
 
-🏡 Using Python, Pandas, and Matplotlib in a Jupyter Notebook environment, I analyzed top and bottom-performing states, calculated each state's share of total permits, and visualized construction activity hotspots. This project reflects my strength in practical data science and storytelling — especially in real estate and market analytics contexts.
+🏡 Using Python, Pandas, SQL, and Matplotlib in a Jupyter Notebook environment, I analyzed top and bottom-performing states, calculated each state's share of total permits, and visualized construction activity hotspots. SQL was used to efficiently query and organize raw permit data before deeper analysis in Python — demonstrating a strong end-to-end data workflow.
 
-🚀📊 #DataScience #Python #Pandas #RealEstateAnalytics  #JupyterNotebooks
+📊 This project reflects my strengths in practical data science, real estate analytics, and storytelling with data.
+
+🚀📈 #DataScience #Python #SQL #Pandas #RealEstateAnalytics #JupyterNotebooks
 
 
 Current Tech Stack:
