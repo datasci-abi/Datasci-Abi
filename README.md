@@ -2,7 +2,12 @@
 
 I am beginning my career as a data analyst, eager to leverage Python, MySQL, Machine Learning, and Natural Language Processing to explore data-driven insights. My journey into data analysis is fueled by a strong interest in applying analytical techniques to solve real-world problems.
 
-🔭 I recently completed a Bitcoin Forecasting App, a cutting-edge project that leverages advanced machine learning models and real-time data to predict Bitcoin price trends. This web application integrates ARIMA and XGBoost models, along with dynamic visualizations and live Bitcoin price tracking, showcasing my expertise in data science and financial analytics. This project reflects my passion for utilizing sophisticated data tools to enhance market insights and support informed decision-making. 🚀📊 #MachineLearning #Bitcoin #AI #Crypto #DataScience
+🔍 I recently completed a U.S. Building Permit Analysis project — a data-driven exploration of residential construction activity across all 50 states using March 2025 data from the U.S. Census Bureau. This project demonstrates my ability to clean and structure messy government data, generate actionable insights, and create compelling visualizations.
+
+🏡 Using Python, Pandas, and Matplotlib in a Jupyter Notebook environment, I analyzed top and bottom-performing states, calculated each state's share of total permits, and visualized construction activity hotspots. This project reflects my strength in practical data science and storytelling — especially in real estate and market analytics contexts.
+
+🚀📊 #DataScience #Python #Pandas #RealEstateAnalytics  #JupyterNotebooks
+
 
 Current Tech Stack:
 🐍 Programming Languages: Python, SQL, R, Excel
